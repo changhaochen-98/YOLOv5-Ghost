@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # this drop notebooks from GitHub language stats
 *.ipynb linguist-vendored
+=======
+YOLOv5-Ghost-dataset.zip filter=lfs diff=lfs merge=lfs -text
+>>>>>>> b1f7ef9 (dataset)
